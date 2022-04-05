@@ -1,9 +1,9 @@
 ## olá eu sou rene saints.
 estou estudando javascript
-<div align="center">
-  <a href="https://github.com/renesaints">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=renesaints&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div align=>
+<img height="300" src="https://github-readme-stats.vercel.app/api?username=renesaints&show_icons=true&theme=radical"/>
 </div>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="rene-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
